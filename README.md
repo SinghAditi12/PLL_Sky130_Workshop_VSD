@@ -7,10 +7,17 @@
 # Table of Contents
   1. Day1 : 
       1. [Introduction to PLL](#Introduction-to-PLL) 
-      2. [Introduction to Components of PLL]
+      2. [Introduction to Components of PLL](#Introduction-to-Components-of-PLL)
       3. Tool setup
       4. What are PDKs and the specifications wrt PLL
   2. Day2 :
       1. PLL Component Design and Simulation
       2. Combining PLL sub-circuits and full simulation
-      3. 
+      3. Layout Design
+
+# Day1 - Introduction to PLL and its components
+
+## Introduction to PLL 
+  PLL or the Phase Locked Loop checks the ouput phase of a Voltage Controlled Oscillator and compares it with the phase of the input signal.
+
+
