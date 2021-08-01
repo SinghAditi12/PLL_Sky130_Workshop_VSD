@@ -23,13 +23,13 @@
   ## Introduction to Components of PLL 
   The basic components of the PLL are :
   
-   1. Phase Frequency Detector - It basically compares the input and poutput phases of the signal and give UP and DOWN signals as the output. We can understand the following    
+   1. *Phase Frequency Detector* - It basically compares the input and poutput phases of the signal and give UP and DOWN signals as the output. We can understand the following    
        using the timing diagram shown below.
        
    ![PFD](https://user-images.githubusercontent.com/88245627/127773983-c83f3529-64e8-4e8e-bff7-7b53572b1d35.JPG)
    
-   2. Charge Pump - 
-   3. Voltage Controlled Oscillator(VCO) and Frequency Divider-
+   2. *Charge Pump* - 
+   3. *Voltage Controlled Oscillator(VCO) and Frequency Divider*-
 
   ## Setting Up Lab Environment -
    In order to set up the tool flow and files for running the lab sessions, the following commands are used. 
