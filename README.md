@@ -12,7 +12,7 @@
      
   2. [Day2](#Day2) :
       1. [PLL Component Design and Simulation](#PLL-Component-Design-and-Simulation)
-      2. Combining PLL sub-circuits and full simulation
+      2. [Combining PLL sub-circuits and full simulation](#Combining-PLL-sub-circuits-and-full-simulation)
       3. Layout Design
 
 # Day1 - Introduction to PLL and its components
@@ -50,16 +50,62 @@
       
       ![image](https://user-images.githubusercontent.com/88245627/127774365-b963facc-b693-4a8a-a3c9-dc7a7757cade.png)
       ![image](https://user-images.githubusercontent.com/88245627/127774644-a2a104ad-d375-4897-b358-cac47b75f51e.png)
-  Output - 
+     Output - 
       ![image](https://user-images.githubusercontent.com/88245627/127774673-52487d2f-3ec4-4495-b20f-3e438a57662d.png)
       
    2. Charge Pump - 
       
-      ![image](https://user-images.githubusercontent.com/88245627/127774730-de25cb3c-4832-48c4-991f-b377cf6eb6f7.png
       ![image](https://user-images.githubusercontent.com/88245627/127774749-f9a44e0d-b463-4595-bf7b-dcd933ce5c6d.png)
-   Output - 
-      Before Adding Pulse - ![image](https://user-images.githubusercontent.com/88245627/127774776-e6a00743-72f6-42de-bf25-2276189442af.png)
-      After Adding Pulse - ![image](https://user-images.githubusercontent.com/88245627/127774805-9f4a64d6-a48c-437b-a481-a68ad872503e.png)
+   
+      Output - 
+   
+   Before Adding Pulse -           
+   ![image](https://user-images.githubusercontent.com/88245627/127774776-e6a00743-72f6-42de-bf25-2276189442af.png)
+   After Adding Pulse -      
+   ![image](https://user-images.githubusercontent.com/88245627/127774805-9f4a64d6-a48c-437b-a481-a68ad872503e.png)
+   
+   3. Voltage Controlled Oscillator -
+
+      ![image](https://user-images.githubusercontent.com/88245627/127774998-d7b1d119-ffe9-4690-90a9-2fb789559793.png)
+      
+      Output - 
+      
+      ![image](https://user-images.githubusercontent.com/88245627/127775019-202d34b9-cfa9-4f18-abd8-0b2689eb982b.png)
+      
+   4. Phase Detector - 
+
+      ![image](https://user-images.githubusercontent.com/88245627/127775134-a49e3280-e08b-4924-8621-ec20c50861c5.png)
+      
+      Output - 
+      
+      ![image](https://user-images.githubusercontent.com/88245627/127775144-6f2da6bb-2901-4d67-9d90-34399e2b2b62.png)
+      
+   ## Combining PLL sub-circuits and full simulation
+  
+   Simulating PLL with all the combined sub-circuits.
+  
+   ![image](https://user-images.githubusercontent.com/88245627/127775199-67313b10-4ed2-4dc0-a05b-45a5e33074ce.png)
+   
+   Ouput - 
+   
+   ![image](https://user-images.githubusercontent.com/88245627/127775225-8abcaece-4949-4502-bdc6-560fc270db00.png)
+
+
+
+
+      
+      
+      
+      
+      
+      
+   ## Acknowledgment
+   
+   1. Kunal Ghosh
+   2. Lakshmi Sathi
+   3. VSD-IAT
+
+
 
 
 
