@@ -2,7 +2,7 @@
 
   ![PLL](https://user-images.githubusercontent.com/88245627/127762911-f0dce654-0948-4562-8e17-5ff6756ee7bc.png)
 
-2-day Online Cloud based Workshop organised by VSD from 31st Aug'21 - 1st Aug'21. The details of the workshop can be found here -> https://www.vlsisystemdesign.com/pll-design-using-sky130/?awt_a=5L_6&awt_l=9Us3R&awt_m=3jzon6f2f87yw_6. Brief documentation is provided below based on the theory and labs performed in these 2 days.
+2-day Online Cloud based Workshop organised by VSD from 31st Aug'21 - 1st Aug'21. The details of the workshop can be found here -> [here](#https://www.vlsisystemdesign.com/pll-design-using-sky130/?awt_a=5L_6&awt_l=9Us3R&awt_m=3jzon6f2f87yw_6). Brief documentation is provided below based on the theory and labs performed in these 2 days.
 
 # Table of Contents
   1. Day1 : 
@@ -18,6 +18,6 @@
 # Day1 - Introduction to PLL and its components
 
 ## Introduction to PLL 
-  PLL or the Phase Locked Loop checks the ouput phase of a Voltage Controlled Oscillator and compares it with the phase of the input signal.
+  PLL or the Phase Locked Loop checks the ouput phase of a Voltage Controlled Oscillator and compares it with the phase of the input signal. In this workshop, we had to design the   PLL with Google Skywater130 
 
 
