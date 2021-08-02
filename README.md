@@ -118,7 +118,7 @@
 
   ![image](https://user-images.githubusercontent.com/88245627/127889470-614b7d08-28d8-40ad-b3dc-fc41875bd9f6.png)
 
-  3. **Chare Pump** -
+  3. **Charge Pump** -
 
   ![image](https://user-images.githubusercontent.com/88245627/127889539-ee59b869-b05b-4741-b128-6029187a7796.png)
 
