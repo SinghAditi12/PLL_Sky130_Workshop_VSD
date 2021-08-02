@@ -2,7 +2,7 @@
 
   ![PLL](https://user-images.githubusercontent.com/88245627/127762911-f0dce654-0948-4562-8e17-5ff6756ee7bc.png)
 
-2-day Online Cloud based Workshop organised by VSD from 31st Aug'21 - 1st Aug'21. The details of the workshop can be found here [here]:https://www.vlsisystemdesign.com/pll-design-using-sky130/. Brief documentation is provided below based on the theory and labs performed in these 2 days.
+2-day Online Cloud based Workshop organised by VSD from 31st Aug'21 - 1st Aug'21. The details of the workshop can be found here [here](https://www.vlsisystemdesign.com/pll-design-using-sky130/). Brief documentation is provided below based on the theory and labs performed in these 2 days.
 
 # Table of Contents
   1. [Day1](#Day1) : 
@@ -13,7 +13,8 @@
   2. [Day2](#Day2) :
       1. [PLL Component Design and Simulation](#PLL-Component-Design-and-Simulation)
       2. [Combining PLL sub-circuits and full simulation](#Combining-PLL-sub-circuits-and-full-simulation)
-      3. Layout Design
+      3. [Layout Design](#Layout-Design)
+      4. [Tapeout Theory](#Tapeout-Theory)
 
 # Day1 - Introduction to PLL and its components
 
@@ -28,8 +29,9 @@
        
    ![PFD](https://user-images.githubusercontent.com/88245627/127773983-c83f3529-64e8-4e8e-bff7-7b53572b1d35.JPG)
    
-   2. *Charge Pump* - 
-   3. *Voltage Controlled Oscillator(VCO) and Frequency Divider*-
+   2. *Charge Pump* - It converts the digital measure of phase or frequency difference into an analog control signal to control the oscillator.
+
+   3. *Voltage Controlled Oscillator(VCO) and Frequency Divider* - The Voltage Controlled Oscillator output frequency on the delay and delay depends on the current supplied. The frequency divider circuit comprises of a toggle flip-flop by using D flip-flop and an inverter.
 
   ## Setting Up Lab Environment -
    In order to set up the tool flow and files for running the lab sessions, the following commands are used. 
@@ -54,7 +56,7 @@
       
    2. *Charge Pump* - 
       
-      ![image](https://user-images.githubusercontent.com/88245627/127774749-f9a44e0d-b463-4595-bf7b-dcd933ce5c6d.png)
+      ![image](https://user-images.githubusercontent.com/88245627/127882766-221587fd-3284-4f1d-ac67-ef214845c8f9.png)
    
       *Output* - 
    
@@ -74,7 +76,7 @@
       
    4. *Phase Detector* - 
 
-      ![image](https://user-images.githubusercontent.com/88245627/127775134-a49e3280-e08b-4924-8621-ec20c50861c5.png)
+      ![image](https://user-images.githubusercontent.com/88245627/127882908-40fc1d4d-7372-423b-86a6-e3c4b1c5f1e0.png)
       
       *Output* - 
       
@@ -84,13 +86,15 @@
   
    *Simulating PLL with all the combined sub-circuits.*
   
-   ![image](https://user-images.githubusercontent.com/88245627/127775199-67313b10-4ed2-4dc0-a05b-45a5e33074ce.png)
+   ![image](https://user-images.githubusercontent.com/88245627/127883536-6e505f70-3f51-43b3-bf3b-b5d306327f15.png)
    
    *Ouput* - 
    
    ![image](https://user-images.githubusercontent.com/88245627/127775225-8abcaece-4949-4502-bdc6-560fc270db00.png)
-
-
+   
+   ## Layout
+   
+   
 
 
       
