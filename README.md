@@ -2,7 +2,7 @@
 
   ![PLL](https://user-images.githubusercontent.com/88245627/127762911-f0dce654-0948-4562-8e17-5ff6756ee7bc.png)
 
-2-day Online Cloud based Workshop organised by VSD from 31st Aug'21 - 1st Aug'21. The details of the workshop can be found here -> https://www.vlsisystemdesign.com/pll-design-using-sky130/?awt_a=5L_6&awt_l=9Us3R&awt_m=3jzon6f2f87yw_6. Brief documentation is provided below based on the theory and labs performed in these 2 days.
+2-day Online Cloud based Workshop organised by VSD from 31st Aug'21 - 1st Aug'21. The details of the workshop can be found here [here]:https://www.vlsisystemdesign.com/pll-design-using-sky130/. Brief documentation is provided below based on the theory and labs performed in these 2 days.
 
 # Table of Contents
   1. [Day1](#Day1) : 
@@ -46,48 +46,47 @@
   
   ![image](https://user-images.githubusercontent.com/88245627/127774544-0e0b7381-4859-43ea-87f7-3cb3b749a120.png)
 
-  1. Frequency Division - 
+  1. *Frequency Division* -
       
-      ![image](https://user-images.githubusercontent.com/88245627/127774365-b963facc-b693-4a8a-a3c9-dc7a7757cade.png)
-      ![image](https://user-images.githubusercontent.com/88245627/127774644-a2a104ad-d375-4897-b358-cac47b75f51e.png)
-     Output - 
+      ![image](https://user-images.githubusercontent.com/88245627/127881560-2050d7b1-65a3-4961-8302-3fb76f44fa0d.png)
+     *Output* - 
       ![image](https://user-images.githubusercontent.com/88245627/127774673-52487d2f-3ec4-4495-b20f-3e438a57662d.png)
       
-   2. Charge Pump - 
+   2. *Charge Pump* - 
       
       ![image](https://user-images.githubusercontent.com/88245627/127774749-f9a44e0d-b463-4595-bf7b-dcd933ce5c6d.png)
    
-      Output - 
+      *Output* - 
    
-   Before Adding Pulse -           
+   *Before Adding Pulse* -           
    ![image](https://user-images.githubusercontent.com/88245627/127774776-e6a00743-72f6-42de-bf25-2276189442af.png)
    
-   After Adding Pulse -      
+   *After Adding Pulse* -      
    ![image](https://user-images.githubusercontent.com/88245627/127774805-9f4a64d6-a48c-437b-a481-a68ad872503e.png)
    
-   3. Voltage Controlled Oscillator -
+   3. *Voltage Controlled Oscillator* -
 
       ![image](https://user-images.githubusercontent.com/88245627/127774998-d7b1d119-ffe9-4690-90a9-2fb789559793.png)
       
-      Output - 
+      *Output* - 
       
       ![image](https://user-images.githubusercontent.com/88245627/127775019-202d34b9-cfa9-4f18-abd8-0b2689eb982b.png)
       
-   4. Phase Detector - 
+   4. *Phase Detector* - 
 
       ![image](https://user-images.githubusercontent.com/88245627/127775134-a49e3280-e08b-4924-8621-ec20c50861c5.png)
       
-      Output - 
+      *Output* - 
       
       ![image](https://user-images.githubusercontent.com/88245627/127775144-6f2da6bb-2901-4d67-9d90-34399e2b2b62.png)
       
    ## Combining PLL sub-circuits and full simulation
   
-   Simulating PLL with all the combined sub-circuits.
+   *Simulating PLL with all the combined sub-circuits.*
   
    ![image](https://user-images.githubusercontent.com/88245627/127775199-67313b10-4ed2-4dc0-a05b-45a5e33074ce.png)
    
-   Ouput - 
+   *Ouput* - 
    
    ![image](https://user-images.githubusercontent.com/88245627/127775225-8abcaece-4949-4502-bdc6-560fc270db00.png)
 
